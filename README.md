@@ -1,4 +1,4 @@
-<h1 align="center"> Flutuar </h1>
+<h1 align="center"> Fluctuate </h1>
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="Flutuar" src="./github/preview.png" width="100%">
+  <img alt="Fluctuate" src="./github/preview.png" width="100%">
 </p>
 
 ## 🚀 Technologies
@@ -21,6 +21,6 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-- [Access the finished project, online](https://smoothemerson.github.io/Flutuar/)
+- [Access the finished project, online](https://smoothemerson.github.io/Fluctuate/)
 
 - Project given by Rocketseat in Stage 02 of the Explorer Course
