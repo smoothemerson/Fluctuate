@@ -23,6 +23,4 @@ This project was developed with the following technologies:
 
 - [Access the finished project, online](https://smoothemerson.github.io/Flutuar/)
 
-- Project given by Rocketseat to practice HTML and CSS
-
-- Stage 02, first module
+- Project given by Rocketseat to practice HTML and CSS in Stage 02
